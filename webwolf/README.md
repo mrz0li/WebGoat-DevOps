@@ -2,6 +2,8 @@
 
 ## Introduction
 
+test
+
 During workshops one of the feedback items was that in some lesson it was not clear what you controlled 
 as an attacker and what was part of the lesson. To make this separation more distinct we created 
 WebWolf which is completely controlled by you as the attacker and runs as a separate application. 
